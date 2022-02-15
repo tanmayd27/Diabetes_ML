@@ -1,1 +1,1 @@
-# Diabeties_ML
+# Diabetes_ML
